@@ -1,0 +1,98 @@
+# =========================================================
+#  Global ignores (OS, editors, IDEs)
+# =========================================================
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.iml
+
+# =========================================================
+#  Python
+# =========================================================
+# Byte-code & interpreter junk
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual-envs & tooling
+.env
+.venv/
+venv/
+Pipfile.lock
+poetry.lock
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================================================
+#  C / C++
+# =========================================================
+# Object & dependency files
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.out
+*.exe
+
+# Build folders (make, CMake, CLion, Visual Studio, etc.)
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.vcxproj*
+*.sln
+*.user
+*.opensdf
+*.filters
+
+# =========================================================
+#  Java / JVM
+# =========================================================
+# Compiled classes & JARs
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven & Gradle outputs
+target/
+build/
+.gradle/
+!gradle-wrapper.jar   # keep wrapper if committed on purpose
+
+# IntelliJ / Eclipse extras
+*.log
+*.iws
+*.ipr
+*.classpath
+*.project
+.settings/
+out/
+
+# =========================================================
+#  Misc course artifacts
+# =========================================================
+# PDFs, final write-ups, and screenshots *are* usually committed,
+# but large binary files or datasets should not be:
+*.zip
+*.tar.gz
+*.7z
+*.iso
+*.csv
+*.db
+*.sqlite
+
+# =========================================================
+#  End of .gitignore
+# =========================================================

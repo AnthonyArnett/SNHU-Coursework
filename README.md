@@ -10,47 +10,26 @@ A curated collection of projects, assignments, and exercises completed while pur
 > 2. To provide future classmates and hiring managers a transparent look at my code.  
 > 3. To keep myself accountable and organized as I progress toward graduation.
 
----
 
-## 📑 Table of Contents
-1. About the Degree & Focus  
-2. Skills & Technologies  
-3. Repository Structure  
-4. How to Use This Repo  
-5. Coursework Detail  
-6. Contributing & Academic Integrity  
-7. License  
-8. Contact  
-
----
-
-## 1. About the Degree & Focus
+## About the Degree & Focus
 • **Institution:** Southern New Hampshire University  
 • **Program:** B.S. Computer Science (Software Engineering)  
-• **Expected Graduation:** *Month Year*  
-• **GPA:** *x.xx/4.0*  
+• **Expected Graduation:** **  
+• **GPA:** */4.0*  
 
----
 
-## 2. Skills & Technologies
+## Skills & Technologies
 **Programming Languages**  
-* C++ & STL 
-* Python
-* Java
+* C++, Python, Java
 
 **Data Structures & Algorithms**  
-* Lists
-* Trees
-* Sorting/Searching
+* Lists, Trees, Sorting/Searching
 
 **Systems & Tooling**  
-* File I/O
-* Data Persistence
+* File I/O, Data Persistence
 * Basic Security
 * Git/Github
-* VS Code
-* Eclipse
-* Visual Studio
+* VS Code, Visual Studio, Eclipse
 
 **Mathematics for Computing**  
 * Discrete Mathematics
@@ -63,9 +42,8 @@ A curated collection of projects, assignments, and exercises completed while pur
 * Unit Testing
 * Agile/Scrum
 
----
 
-## 3. Repository Structure
+## Repository Structure
 * CS-210 Programming Languages
 	* Comparative study of language paradigms; hands-on C++ & Python projects; memory management; scripting vs. compiled workflows. 
 * CS-250 Software Development Lifecycle
@@ -78,13 +56,13 @@ Each directory typically includes:
 
 ---
 
-## 4. License
+## License
 This code is provided solely for educational review.  
 Distribution or submission as your own coursework is strictly prohibited.
 
 ---
 
-## 5. Contributing and Academic Integrity
+## Contributing and Academic Integrity
 Bugs, code reviews, and constructive feedback are always welcome via Issues or Pull Requests.
 
 **Do not copy/paste these solutions for graded work.**
@@ -92,7 +70,7 @@ This is a violation of the license stated above, SNHU's academic honesty policy 
 
 ---
 
-## 7. Contact
+## Contact
 **Email:** anthonyarnett2@snhu.edu
 **LinkedIn:** https://www.linkedin.com/in/anthonyarnett1
 **Portfolio:** https://anthonyarnett.dev
