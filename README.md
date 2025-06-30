@@ -14,7 +14,7 @@ A curated collection of projects, assignments, and exercises completed while pur
 ## About the Degree & Focus
 • **Institution:** Southern New Hampshire University  
 • **Program:** B.S. Computer Science (Software Engineering)  
-• **Expected Graduation:** 2026**  
+• **Expected Graduation: ** 2026 **  
 • **GPA:** *3.8/4.0*  
 
 
