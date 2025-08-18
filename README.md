@@ -68,14 +68,10 @@ Each directory typically includes:
 - Documentation / write-ups
 - Screenshots, diagrams, or sample outputs
 
----
-
 ## License
 
 This repository is for **educational review only**.
 Distribution or submission as your own coursework is strictly prohibited.
-
----
 
 ## Contributing and Academic Integrity
 
@@ -84,14 +80,10 @@ Bugs, code reviews, and constructive feedback are always welcome through Issues 
 **Do not copy/paste these solutions for graded work.**
 This is a violation of the license stated above, SNHU's academic honesty policy and, honestly, it's just wrong. You aren't going to learn anything if you don't do the work.
 
----
-
 ## Contact
 
 **Email:** anthonyarnett2@snhu.edu
 **LinkedIn:** [linkedin.com/in/anthonyarnett1](https://www.linkedin.com/in/anthonyarnett1)
 **Website:** [anthonyarnett.dev](https://anthonyarnett.dev)
-
----
 
 > "Learning never exhausts the mind." - Leonardo da Vinci
