@@ -6,79 +6,119 @@
 
 A curated collection of projects, assignments, and exercises completed while pursuing a **B.S. in Computer Science (Software Engineering concentration)** at **Southern New Hampshire University**.
 
-> ## Purpose
+This repository serves as both an academic archive and a professional portfolio, showing progress over time rather than just final outcomes.
+
+---
+
+## Purpose
 
 This repository exists to:
 
-> 1. Demonstrate growth as a developer.
-> 2. Provide classmates, professors, and hiring managers a transparent look at my work.
-> 3. Keep coursework organized as I progress toward graduation.
+- Document growth as a computer science student and developer
+- Keep coursework organized throughout the program
+- Provide transparency for professors, classmates, and future employers
+- Serve as a reference for concepts learned and applied
 
 ## Degree Information
 
-• **Institution:** Southern New Hampshire University  
-• **Program:** B.S. Computer Science (Software Engineering)  
-• **Expected Graduation:** _2026_  
-• **GPA:** _3.8/4.0_
+- **Institution:** Southern New Hampshire University
+- **Program:** B.S. Computer Science (Software Engineering concentration)
+- **Expected Graduation:** 2026
+- **GPA:** 3.8 / 4.0
+
+---
 
 ## Skills & Technologies
 
-**Programming Languages**
+### Programming Languages
 
-- C++, Python, Java
+- C++
+- Python
+- Java
 
-**Data Structures & Algorithms**
+### Data Structures & Algorithms
 
-- Lists, Trees, Sorting/Searching
+- Lists
+- Trees
+- Sorting/Searching
 
-**Systems & Tooling**
+### Systems & Tooling
 
-- File I/O, Data Persistence
-- Basic Security
-- Git/Github
+- File I/O and Data Persistence
+- Security concepts
+- Git / Github
 - VS Code, Visual Studio, Eclipse
 
-**Mathematics for Computing**
+### Mathematics for Computing
 
 - Discrete Mathematics
 - Calculus
 - Physics
 
-**Software Engineering Practices**
+### Software Engineering Practices
 
 - Object-Oriented Design
 - Modular Architecure
 - Unit Testing
-- Agile/Scrum
+- Agile / Scrum methodologies
+
+---
 
 ## Repository Structure
 
-- **CS-210 Programming Languages**
-  - Comparative study of language paradigms; hands-on C++ & Python projects; memory management; scripting vs. compiled workflows.
-- **CS-230 Operating Platforms**
-  - Exploration of operating systems and architecture; focus on Linux/Windows environments, process management, file systems, and deployment practices.
-- **CS-250 Software Development Lifecycle**
-  - Full SDLC in an Agile setting; requirements gathering, UML modeling, iterative implementation, and retrospectives.
-- **CS-250 Software Development Lifecycle**
-  - Analysis and modeling of business systems using UML; development of use cases, activity diagrams, class diagrams, and sequence diagrams to drive software design.
+### Completed
 
-Each directory typically includes:
+- **CS-210 — Programming Languages**  
+  Comparative study of language paradigms with hands-on projects in C++ and Python, covering memory management, scripting vs. compiled workflows, and language design tradeoffs.
+
+- **CS-230 — Operating Platforms**  
+  Exploration of operating systems and computer architecture with emphasis on Linux and Windows environments, process management, file systems, and deployment considerations.
+
+- **CS-250 — Software Development Lifecycle**  
+  End-to-end software development in an Agile setting, including requirements gathering, UML modeling, iterative implementation, testing, and retrospectives.
+
+- **CS-255 — System Analysis & Design**  
+  Analysis and modeling of business systems using UML. Includes use cases, activity diagrams, class diagrams, and sequence diagrams to drive software design decisions.
+
+- **CS-300 — Data Structures & Algorithms: Analysis and Design**  
+  Design and analysis of data structures and algorithms with focus on performance, efficiency, and problem-solving strategies.
+
+- **CS-305 — Software Security**  
+  Secure software design principles, common vulnerabilities, threat modeling, risk mitigation, and secure coding practices.
+
+### In Progress
+
+- **CS-320 — Software Test, Automation, and Quality Assurance**  
+  Principles of software testing, automated test frameworks, quality assurance practices, and test-driven development.
+
+### Upcoming
+
+- Courses will be added as they appear in the degree plan.
+
+---
+
+## What Each Course Folder Typically Contains
 
 - Source code and build files
-- Documentation / write-ups
-- Screenshots, diagrams, or sample outputs
+- Documentation and written reports
+- Diagrams, screenshots, or sample output
+- Supporting materials as required by the course
 
-## License
+If you are a student, use this repository as a reference for structure and approach — not answers.
 
-This repository is for **educational review only**.
-Distribution or submission as your own coursework is strictly prohibited.
+---
 
-## Contributing and Academic Integrity
+## Academic Integrity & License
 
-Bugs, code reviews, and constructive feedback are always welcome through Issues or Pull Requests.
+This repository is provided **for educational review only**.
 
-**Do not copy/paste these solutions for graded work.**
-This is a violation of the license stated above, SNHU's academic honesty policy and, honestly, it's just wrong. You aren't going to learn anything if you don't do the work.
+- Do **not** copy or submit this work as your own coursework
+- Doing so violates SNHU’s academic honesty policy
+- You will not learn anything by shortcutting the work
+
+## Contributions & Feedback
+
+Bug reports, suggestions, and constructive feedback are welcome through Issues or Pull Requests, as long as they respect academic integrity guidelines.
 
 ## Contact
 
