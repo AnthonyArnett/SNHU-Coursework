@@ -86,10 +86,13 @@ This repository exists to:
 - **CS-305 — Software Security**  
   Secure software design principles, common vulnerabilities, threat modeling, risk mitigation, and secure coding practices.
 
-### In Progress
-
 - **CS-320 — Software Test, Automation, and Quality Assurance**  
   Principles of software testing, automated test frameworks, quality assurance practices, and test-driven development.
+
+- **CS-330 — Computer Graphics and Visualization**
+  Development of interactive 3D graphics applications using C++ and OpenGL. Topics included transformations, textures, lighting models, camera systems, and real-time rendering. Final project involved recreating a real-world desk setup as a navigable 3D scene.
+
+### In Progress
 
 ### Upcoming
 
@@ -124,6 +127,6 @@ Bug reports, suggestions, and constructive feedback are welcome through Issues o
 
 **Email:** anthonyarnett2@snhu.edu
 **LinkedIn:** [linkedin.com/in/anthonyarnett1](https://www.linkedin.com/in/anthonyarnett1)
-**Website:** [anthonyarnett.dev](https://anthonyarnett.dev)
+**Website:** [anthonyarnett.com](https://anthonyarnett.com)
 
 > "Learning never exhausts the mind." - Leonardo da Vinci
