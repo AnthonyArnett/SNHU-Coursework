@@ -6,7 +6,7 @@
 
 A curated collection of projects, assignments, and exercises completed while pursuing a **B.S. in Computer Science (Software Engineering concentration)** at **Southern New Hampshire University**.
 
-This repository serves as both an academic archive and a professional portfolio, showing progress over time rather than just final outcomes.
+This repository serves as both an academic archive and a professional portfolio, showing my progress throughout the program.
 
 ---
 
@@ -23,7 +23,7 @@ This repository exists to:
 
 - **Institution:** Southern New Hampshire University
 - **Program:** B.S. Computer Science (Software Engineering concentration)
-- **Expected Graduation:** 2026
+- **Expected Graduation:** 2027
 - **GPA:** 3.8 / 4.0
 
 ---
@@ -36,31 +36,48 @@ This repository exists to:
 - Python
 - Java
 
+### Databases & Backend
+
+- MongoDB
+- PyMongo
+- Crud Operations
+- Database queries and aggregation pipelines
+
 ### Data Structures & Algorithms
 
 - Lists
 - Trees
+- Hash Tables
 - Sorting/Searching
+- Algorithm analysis
 
 ### Systems & Tooling
 
+- Git / GitHub
+- Linux
 - File I/O and Data Persistence
 - Security concepts
 - Git / Github
 - VS Code, Visual Studio, Eclipse
 
-### Mathematics for Computing
-
-- Discrete Mathematics
-- Calculus
-- Physics
-
-### Software Engineering Practices
+### Software Engineering
 
 - Object-Oriented Design
 - Modular Architecure
 - Unit Testing
 - Agile / Scrum methodologies
+- Software security
+- System analysis and UML
+- Client/server development
+
+### Graphics & Visualization
+
+- C++
+- OpenGL
+- 3D transformations
+- Textures and lighting
+- Interactive camera systems
+- Data dashboards and visualization
 
 ---
 
@@ -92,7 +109,19 @@ This repository exists to:
 - **CS-330 — Computer Graphics and Visualization**
   Development of interactive 3D graphics applications using C++ and OpenGL. Topics included transformations, textures, lighting models, camera systems, and real-time rendering. Final project involved recreating a real-world desk setup as a navigable 3D scene.
 
+- **CS-340 — Client/Server Development**
+  Development of database-driven applications using Python, MongoDB, PyMongo, CRUD modules, advanced queries, aggregation pipelines, and interactive dashboards.
+
+- **IT-212 — Introduction to Computer Networks**
+  Networking fundamentals including network architectures, protocols, addressing, hardware, security, and designing network solutions based on business requirements.
+
 ### In Progress
+
+- **CS-350 — Embedded Systems Architectures and Technologies**
+  Embedded systems, hardware/software integration, and emerging computing architectures.
+
+- **CS-360 — Mobile Architecture and Programming**
+  Mobile application design and development, including user interfaces, application architecture, and mobile development practices.
 
 ### Upcoming
 
